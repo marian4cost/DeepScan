@@ -1,0 +1,6 @@
+atividade sobre MRI
+código básico em R para familiarizar com a biblioteca
+levantamento bibliografico
+tecnicas de aumento de contraste
+tecnicas para validar o aumento de contraste
+tecnicas de deep learning no aumento de contraste

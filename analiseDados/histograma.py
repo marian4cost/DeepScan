@@ -18,7 +18,7 @@ def gerar_histograma(path_imagem):
 
 
 # >>> coloque o caminho da sua imagem aqui <<<
-caminho = "dceNovo.png"
+caminho = "dce-novo-no-tumor01.png"
 
 # Chama a função
 gerar_histograma(caminho)
